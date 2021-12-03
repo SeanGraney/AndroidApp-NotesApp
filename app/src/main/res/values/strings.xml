@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="addNoteButton">Add Note</string>
+    <string name="infoButton">Info</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="_2021_sean_graney">\@2021, Sean Graney</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="saved">saved</string>
+    <string name="file_name">Notes.JSON</string>
+    <string name="no_file">No JSON File Present</string>
+</resources>
